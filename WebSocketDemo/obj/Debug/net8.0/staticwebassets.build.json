@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "zuJn5Kr7Fb1TeW4ijutQA7t7VmecBgmjCLqzMSYKY+A=",
+  "Source": "WebSocketDemo",
+  "BasePath": "_content/WebSocketDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebSocketDemo\\wwwroot",
+      "Source": "WebSocketDemo",
+      "ContentRoot": "C:\\Users\\msi\\Documents\\GitHub\\.NET_WebSocket\\WebSocketDemo\\wwwroot\\",
+      "BasePath": "_content/WebSocketDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\msi\\Documents\\GitHub\\.NET_WebSocket\\WebSocketDemo\\wwwroot\\index.html",
+      "SourceId": "WebSocketDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\msi\\Documents\\GitHub\\.NET_WebSocket\\WebSocketDemo\\wwwroot\\",
+      "BasePath": "_content/WebSocketDemo",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
